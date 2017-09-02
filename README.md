@@ -1,2 +1,3 @@
 # DiversityWorkshop
-Online Biodiversity Workshop
+
+This online workshop is based on a hands-on workshop developed by Fatima Hussain, Phil Arevalo, David VanInsberghe, and Martin Polz (MIT) and Libusha Kelly (Albert Einstein College of Medicine) and given to University of Central America (Nicaragua) students to introduce them to statistical and bioinformatic tools for studying biodiversity. Briefly, we assembled a compact curriculum covering DNA barcoding, microbial diversity, introductory statistics, and programming in R. Prior to our arrival, we worked with the students to sequence butterfly and mollusk samples they had collected to increase engagement in the workshop by using data of interest to the students in the interactive sessions. We also created mock data of butterfly abundances in different ecosystems within Nicaragua to personalize the statistical tutorials using R Studio.
