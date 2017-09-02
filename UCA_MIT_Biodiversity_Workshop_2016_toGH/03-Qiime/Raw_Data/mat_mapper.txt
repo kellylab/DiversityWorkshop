@@ -1,0 +1,6 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Description			
+S1	GTGAG		First_cm_of_sand_in_old_mat
+S2	GTCTG		Second_cm_of_sand_in_old_mat
+Pink	GCACG		Pink_layer_old_mat
+Brown	GAGCG		Brown_layer_old_mat
+Green	CTGTG		Green_layer_old_mat
